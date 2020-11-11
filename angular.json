@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularjstutrial"
+    }
+  },
+  "defaultProject": "angularjstutrial",
+  "cli": {
+    "analytics": "782b08d4-475e-45fd-9bbd-d09cca98ba1d"
+  }
 }
