@@ -13,8 +13,8 @@ import { ProductAlertsComponent } from './product-alerts/product-alerts.componen
     BrowserModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
-      { path: '', component: ProductListComponent },
-    ])
+    { path: '', component: ProductListComponent },
+], { relativeLinkResolution: 'legacy' })
   ],
   declarations: [
     AppComponent,
