@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-tutrial-app"
+  },
+  "targets": {
+    "angular-tutrial-app": {
+      "hosting": {
+        "angularjstutrial": [
+          "angular-tutrial-app"
+        ]
+      }
+    }
+  }
+}
